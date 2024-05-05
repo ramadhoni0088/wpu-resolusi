@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   * ES6
   * Frameworks Javascript
     ^ Viue
+    ^ React
 - Sturktur Data Dasar
 - PHP Frameworks
   ^ Laravel
